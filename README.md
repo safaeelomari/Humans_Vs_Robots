@@ -11,7 +11,7 @@ Deuxième Dataframe : Dataframe d'entraînement (train_smote.csv) après avoir a
 
 Troisième Dataframe : Dataframe de test (test.csv).
 
-# N.B:
+N.B:
 Nous n'avons pas pushé les données parce qu'elles sont lourdes
 # Etudiants :
 Zineb Aissaoui
